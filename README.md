@@ -1,8 +1,8 @@
 # HalloweenCandyRanking
-#Case Study: Expanding our candy brand
+Case Study: Expanding candy brand
 
 
-##Scenario
+Scenario
 
 
 The famous supermarket purchasing group wants to expand our candy offering. These are store brand candies that we sell along the brand offerings. The idea is to create a brand new product. The team is discussing various options at the moment.
@@ -11,7 +11,9 @@ Some prefer cookie-based sweets while others think that it should be gummies. Th
 
 The market research data is now available and it is your job to find out which product characteristics drive customer sentiment and subsequently make a recommendation on a new product.
 
-##Data
+Data
+
+
 The data set is located (incl. a short description) here:
 https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking
 The data set is provided by FiveThirtyEight under the Creative Commons Attribution 4.0 International
